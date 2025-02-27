@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "Tech Corp",
+      "location": "Remote",
+      "salary": "$70,000 - $90,000",
+      "matchScore": 85,
+      "skills": ["React", "Next.js", "JavaScript", "Tailwind CSS"]
+    },
+    {
+      "id": 2,
+      "title": "UI Engineer",
+      "company": "DesignPro",
+      "location": "New York, USA",
+      "salary": "$80,000 - $100,000",
+      "matchScore": 70,
+      "skills": ["Figma", "React", "CSS"]
+    }
+  ]
+  
